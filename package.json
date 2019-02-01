@@ -1,0 +1,22 @@
+{
+  "name": "webcamapp",
+  "version": "1.0.0",
+  "description": "Simple web communications app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderHildreth/webCamApp.git"
+  },
+  "author": "Alexander Hildreth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderHildreth/webCamApp/issues"
+  },
+  "homepage": "https://github.com/AlexanderHildreth/webCamApp#readme",
+  "dependencies": {
+    "peer": "^0.2.10"
+  }
+}
